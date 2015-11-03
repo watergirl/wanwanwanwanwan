@@ -21,11 +21,7 @@
 }
 
 
-+ (NSDictionary *)objectClassInArray{
-    return @{@"esArray" : [Esarray class]};
-}
-@end
-@implementation Esarray
+
 
 @end
 
